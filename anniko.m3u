@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ Sweden [SE] ▬" tvg-logo="https://picon-13398.kxcdn.com/sweden.jpg" group-title="Live: Sweden",▬ Sweden [SE] ▬
+http://tv.dreamhost.hitv.one:80/7M4wGfN86/D3HYYC25/16515
+#EXTINF:-1 tvg-id="ViasatMotor.se" tvg-name="V Sport Motor HD SE" tvg-logo="https://picon-13398.kxcdn.com/v-sport-motor-se.jpg" group-title="Live: Sweden",V Sport Motor HD SE
+http://tv.dreamhost.hitv.one:80/7M4wGfN86/D3HYYC25/11569
+#EXTINF:-1 tvg-id="ViasatMotor.se" tvg-name="V Sport Motor FHD SE" tvg-logo="https://picon-13398.kxcdn.com/v-sport-motor-se.jpg" group-title="Live: Sweden",V Sport Motor FHD SE
+http://tv.dreamhost.hitv.one:80/7M4wGfN86/D3HYYC25/18228
